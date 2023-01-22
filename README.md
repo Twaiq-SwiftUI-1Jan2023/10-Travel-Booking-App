@@ -3,4 +3,5 @@
 
 <h2> ❖ Travel Booking App Mockups </h2>
 
-<p align= "center">  <img width="800" alt="Screen Shot 1444-06-29 at 7 37 47 AM" src="https://user-images.githubusercontent.com/59771760/213900882-c87fdbcd-410a-4524-ab86-ef883e99b5e1.png"> </p>
+<p align= "center">   <img width="800" alt="Screen Shot 1444-06-29 at 9 32 53 AM" src="https://user-images.githubusercontent.com/59771760/213903790-57817da1-544b-4916-ad33-9e845896bdc6.png">
+</p>
