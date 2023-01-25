@@ -5,3 +5,9 @@
 
 <p align= "center">   <img width="800" alt="Screen Shot 1444-06-29 at 9 32 53 AM" src="https://user-images.githubusercontent.com/59771760/213903790-57817da1-544b-4916-ad33-9e845896bdc6.png">
 </p>
+
+<h2> ❖ TBC </h2>
+<li> Modularize the source code </li>
+<li> Follow a design pattern  </li>
+<li> Support code reusability </li>
+<li> Enhance the layout, taking the screen dimensions into consideration instead of using 'literal' sizing</li>
